@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Kurt
 
-
-**Khmcauliffe/Khmcauliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-teal)](https://www.linkedin.com/in/kurt-mcauliffe/)
 
 Here are some ideas to get you started:
 
